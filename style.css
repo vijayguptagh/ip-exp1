@@ -1,0 +1,45 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 25px;
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: whitesmoke;
+}
+h2{
+    font-family: sans-serif;
+}
+.mb-3{
+    color:black;
+}
+button{
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+.sports{
+    background-color: #282828;
+}
+.acedemics body{
+    background-color: wheat;
+}
+.me{
+    
+    text-align: center;
+    font-size: 45px;
+}   
+
+.yoyo{
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    background-color: rgb(204, 201, 201);
+    border-radius: 25px;
+}
